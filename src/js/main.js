@@ -16,7 +16,7 @@ let battleState;
 let lossState;
 let victoryState;
 let endState;
-let creditState;
+let creditsState;
 
 const config = {
     
