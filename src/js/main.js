@@ -1,2 +1,15 @@
-console.log('Hello World!');
-console.log('wassup');
+const config = {
+    
+};
+
+function preload() {
+
+}
+
+function create() {
+
+}
+
+function update() {
+
+}
