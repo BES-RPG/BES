@@ -1,0 +1,9 @@
+class Roles {
+    constructor() {
+
+    }
+
+    attack() {
+
+    }
+}
