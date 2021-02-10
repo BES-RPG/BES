@@ -1,14 +1,7 @@
 //Need to add more features to the weapons class
 class Weapons {
-    constructor() {
-
-    }
-
-    attack() {
-
-    }
-
-    block() {
-
+    constructor(range, areaType) {
+        this.range = range;
+        this.areaType = areaType;
     }
 }
